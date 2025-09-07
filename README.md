@@ -1,5 +1,5 @@
 # ECCV 2024: [Rethinking Features-Fused-Pyramid-Neck for Object Detection](https://link.springer.com/chapter/10.1007/978-3-031-72855-6_5)
-### 🎉🎉🎉NEW WORK! -> [ESWA 2025] [A Biologically Inspired Separable Learning Vision Model for Real-time Traffic Object Perception in Dark](https://doi.org/10.1016/j.eswa.2025.129529)
+### 🎉🎉🎉NEW WORK! -> [ESWA2025] [A Biologically Inspired Separable Learning Vision Model for Real-time Traffic Object Perception in Dark](https://doi.org/10.1016/j.eswa.2025.129529)
 
 [English](README.md) | [简体中文](README-zh-CN.md)| [Paper PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08386.pdf)
 
